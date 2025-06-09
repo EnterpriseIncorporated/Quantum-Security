@@ -1,0 +1,1 @@
+// Placeholder for particles.js – normally you’d load from CDN or local file
