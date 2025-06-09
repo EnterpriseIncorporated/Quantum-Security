@@ -1,0 +1,1 @@
+// Console logic and biometric enforcement placeholder

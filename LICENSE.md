@@ -1,0 +1,1 @@
+All content in this repository is protected under sovereign IP law, WIPO, and AU-IP jurisdiction. Unauthorized use triggers 333 Protocol.

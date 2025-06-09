@@ -1,1 +1,1 @@
-// particles.js placeholder loader – actual logic from CDN or local file
+// particles.js placeholder for animation effect

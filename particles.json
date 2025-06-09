@@ -1,16 +1,1 @@
-
-{
-  "particles": {
-    "number": { "value": 70 },
-    "color": { "value": "#ff0000" },
-    "shape": { "type": "circle" },
-    "opacity": { "value": 0.4 },
-    "size": { "value": 2 },
-    "move": { "enable": true, "speed": 1.5 }
-  },
-  "interactivity": {
-    "events": {
-      "onhover": { "enable": true, "mode": "repulse" }
-    }
-  }
-}
+{ "particles": { "number": { "value": 100 }, "color": { "value": "#ff0000" } } }
